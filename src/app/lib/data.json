@@ -1,0 +1,68 @@
+{
+    "living-room": {
+        "name": "bathroom",
+        "thumbnail": "/sky1/006.png",
+        "images": [
+            "/sky1/001.png",
+            "/sky1/002.png",
+            "/sky1/003.png",
+            "/sky1/004.png",
+            "/sky1/005.png",
+            "/sky1/006.png"
+        ],
+        "changeableFace": 5,
+        "products": [
+            {
+                "id": "p1",
+                "thumbnail": "/sky1/p1.png",
+                "pimage": "/sky1/007.png",
+                "name": "bathroom Product 1"
+            },
+            {
+                "id": "p2",
+                "thumbnail": "/sky1/p2.png",
+                "pimage": "/sky1/008.png",
+                "name": "bathroom Product 2"
+            },
+            {
+                "id": "p3",
+                "thumbnail": "/sky1/p3.png",
+                "pimage": "/sky1/009.png",
+                "name": "bathroom Product 3"
+            }
+        ]
+    },
+    "bedroom": {
+        "name": "Bathroom2",
+        "thumbnail": "/sky1/005.png",
+        "images": [
+            "/sky1/001.png",
+            "/sky1/002.png",
+            "/sky1/003.png",
+            "/sky1/004.png",
+            "/sky1/005.png",
+            "/sky1/006.png"
+        ],
+        "changeableFace": 5,
+        "products": [
+            {
+                "id": "p1",
+                "thumbnail": "/sky1/p1.png",
+                "pimage": "/sky1/007.png",
+                "name": "Product 1"
+            },
+            {
+                "id": "p2",
+                "thumbnail": "/sky1/p2.png",
+                "pimage": "/sky1/008.png",
+                "name": "Product 2"
+            },
+            {
+                "id": "p3",
+                "thumbnail": "/sky1/p3.png",
+                "pimage": "/sky1/009.png",
+                "name": "Product 3"
+            }
+        ]
+    }
+}
